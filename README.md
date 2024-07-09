@@ -36,4 +36,4 @@ A simple Python script to recursively convert FLAC files to MP3 format while pre
 Feel free to open issues or submit pull requests to improve the script.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT LICENSE](LICENSE).
