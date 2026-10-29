@@ -1,6 +1,11 @@
 ## flac2mp3
 
 [![CI](https://github.com/zkm/flac2mp3/actions/workflows/ci.yml/badge.svg)](https://github.com/zkm/flac2mp3/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
+![Python 3.10–3.12](https://img.shields.io/badge/Python-3.10%E2%80%933.12-3776AB?logo=python&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)
+![Standard library only](https://img.shields.io/badge/dependencies-standard%20library%20only-brightgreen)
 
 A simple Python script to recursively convert FLAC files to MP3 format while preserving the original folder structure.
 
